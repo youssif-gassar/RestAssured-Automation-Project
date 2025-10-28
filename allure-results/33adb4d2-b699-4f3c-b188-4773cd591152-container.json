@@ -1,0 +1,1 @@
+{"uuid":"33adb4d2-b699-4f3c-b188-4773cd591152","name":"RequestsAssertions.patchBooking","children":["6cfd944e-1933-4cf8-9fff-9c908b50f3b3"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1761446363352,"stop":1761446363354}],"afters":[],"start":1761446345444,"stop":1761446374641}

@@ -1,0 +1,1 @@
+{"uuid":"682b751a-1e5d-45ca-897c-d0ab18d91c6b","name":"RequestsAssertions.updateBooking","children":["d00e191f-3f68-470c-ae3f-72ce7ff85278"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1761446366524,"stop":1761446366527}],"afters":[],"start":1761446345444,"stop":1761446374643}
